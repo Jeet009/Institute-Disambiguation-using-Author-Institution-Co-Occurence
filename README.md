@@ -32,7 +32,6 @@ You can easily run the **Institute Disambiguation** notebook using **Google Cola
 ---
 
 ## 🖼️ Example Image of Generated Graph
-> *(You can add a visual representation of your workflow or results here)*
 
 ```markdown
 ![Institute Disambiguation Diagram](example.png)
