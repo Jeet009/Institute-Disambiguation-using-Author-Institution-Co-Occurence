@@ -33,7 +33,6 @@ You can easily run the **Institute Disambiguation** notebook using **Google Cola
 
 ## 🖼️ Example Image of Generated Graph
 
-```markdown
 ![Institute Disambiguation Diagram](https://raw.githubusercontent.com/Jeet009/Institute-Disambiguation-using-Author-Institution-Co-Occurrence/refs/heads/main/example.png)
 
 ---
