@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://postpub.netlify.app">🌐 Visit the Project Webpage</a> •
-  <a href="https://your-paper-link-here">📄 Read the Paper</a>
+  <a target="_blank" href="https://postpub.netlify.app">🖥️ Visit Website</a> •
+  <a target="_blank" href="[https://your-paper-link-here](https://zenodo.org/records/17374892?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjNjMzFlOTMzLTMyNzItNDUxMC1hMmVhLTUxNTQ4NWNiMzU3ZCIsImRhdGEiOnt9LCJyYW5kb20iOiJiNDc2OGM0MzFhMTRiZTZiMDZkNDgzYjQxZDkyMGUwYyJ9.MnYh64hClrVmFeyZhpIwHPXm2StzKlD8M4nN_38rP2notCQjhAx04NQ5p6ioYHFr2TcvvBo8Tuud25UcAhwQfA)">📄 Read the Paper</a>
 </p>
 
 ---
