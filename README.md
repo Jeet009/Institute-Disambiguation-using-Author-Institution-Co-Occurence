@@ -37,11 +37,12 @@ You can easily run the **Institute Disambiguation** notebook using **Google Cola
 3. Outputs (results, logs, and visualizations) will be generated directly in Colab.
 
 ---
+## 🖼️ Steps Involved to Perform the Clustering
+![Visual Representation of The Steps](https://raw.githubusercontent.com/Jeet009/Institute-Disambiguation-using-Author-Institution-Co-Occurrence/refs/heads/main/steps.png)
 
 ## 🖼️ Example Image of Generated Graph
 
 ![Institute Disambiguation Diagram](https://raw.githubusercontent.com/Jeet009/Institute-Disambiguation-using-Author-Institution-Co-Occurrence/refs/heads/main/example.png)
-
 ---
 
 ## 💬 Reach Out to Us
